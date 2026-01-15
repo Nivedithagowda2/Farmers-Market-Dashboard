@@ -53,7 +53,7 @@ Integrate Power BI + Python ML predictions
 Deploy as a live dashboard using Power BI Service
 
 👩‍💻 Author
-Niveditha Gowda
+Niveditha 
 Data Scientist
 📍 Bengaluru, India
 📧 nivedithar127@gmail.com
