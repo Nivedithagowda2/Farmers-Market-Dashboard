@@ -17,9 +17,11 @@ Monthly & Seasonal Demand Trends
 
 This project demonstrates strong skills in Data Analytics, Business Intelligence, and Visualization.
 
+
 🛠 Tools & Technologies
 
 Power BI – Dashboard creation, data cleaning,feature engineering  & data modeling
+
 
 🔍 Key Features
 
@@ -33,6 +35,7 @@ Customer segmentation (high-value vs low-value buyers)
 
 Drill-down and filter options for deep insights
 
+
 📈 Business Insights
 
 Identified top-performing product categories and peak sales months
@@ -43,6 +46,7 @@ Discovered customer buying frequency and average order value
 
 Highlighted underperforming segments for strategic improvement
 
+
 🚀 Future Enhancements
 Add Sales Forecasting (Time Series – ARIMA / Prophet / LSTM)
 
@@ -51,6 +55,8 @@ Implement Customer Segmentation (K-Means, RFM Analysis)
 Integrate Power BI + Python ML predictions
 
 Deploy as a live dashboard using Power BI Service
+
+
 
 👩‍💻 Author
 Niveditha 
