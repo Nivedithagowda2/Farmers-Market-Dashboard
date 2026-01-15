@@ -56,6 +56,7 @@ Deploy as a live dashboard using Power BI Service
 Niveditha 
 Data Scientist
 📍 Bengaluru, India
+
 📧 nivedithar127@gmail.com
 🔗 GitHub: https://github.com/Nivedithagowda2
 🔗 LinkedIn: https://linkedin.com/in/niveditha-89ba04356
