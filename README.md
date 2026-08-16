@@ -1,4 +1,6 @@
 📊 Farmers Market Sales Analysis Dashboard (Power BI)
+---
+
 📌 Project Overview
 
 This project focuses on analyzing and visualizing sales data from a Farmers Market using Power BI and Python-based data preprocessing. The goal is to uncover business insights, identify sales trends, understand customer behavior, and support data-driven decision making.
