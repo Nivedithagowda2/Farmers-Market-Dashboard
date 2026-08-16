@@ -1,5 +1,5 @@
 📊 Farmers Market Sales Analysis Dashboard (Power BI)
----
+
 
 📌 Project Overview
 
@@ -62,8 +62,7 @@ Deploy as a live dashboard using Power BI Service
 
 👩‍💻 Author
 Niveditha 
-Data Scientist
-📍 Bengaluru, India
+
 
 📧 nivedithar127@gmail.com
 🔗 GitHub: https://github.com/Nivedithagowda2
